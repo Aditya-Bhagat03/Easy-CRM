@@ -6,7 +6,7 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.3",
-    "@mui/lab": "^5.0.0-alpha.139",
+    "@mui/lab": "^6.0.0-dev.240424162023-9968b4889d",
     "@mui/material": "^5.14.4",
     "aos": "^2.3.4",
     "axios": "^1.4.0",
